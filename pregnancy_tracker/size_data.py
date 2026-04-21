@@ -22,7 +22,7 @@ PREGNANCY_SIZES = {
     21: ("Karotte", "26.7 cm"),
     22: ("Papaya", "27.8 cm"),
     23: ("Grapefruit", "28.9 cm"),
-    24: ("Mais", "30 cm"),
+    24: ("Maiskolben", "30 cm"),
     25: ("Blumenkohl", "34.6 cm"),
     26: ("Salat", "35.6 cm"),
     27: ("Kohl", "36.6 cm"),
